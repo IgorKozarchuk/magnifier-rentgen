@@ -1,0 +1,5 @@
+$(function() {
+	
+	$('.my-plugin').magnifier();
+
+});

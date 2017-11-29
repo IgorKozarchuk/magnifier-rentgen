@@ -1,0 +1,17 @@
+/* line 1, ../sass/main.scss */
+body {
+  font-family: "Trebuchet MS", Arial, sans-serif;
+}
+
+/* line 5, ../sass/main.scss */
+h1 {
+  text-align: center;
+}
+
+/* line 9, ../sass/main.scss */
+.wrap-plugin {
+  max-width: 600px;
+  margin: 60px auto;
+  border: 6px solid dodgerblue;
+  border-radius: 16px;
+}
